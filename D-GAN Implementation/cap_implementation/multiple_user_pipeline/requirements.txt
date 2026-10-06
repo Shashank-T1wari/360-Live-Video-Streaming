@@ -1,0 +1,8 @@
+# torch: on Windows with an NVIDIA GPU, install it first with the CUDA command
+# from https://pytorch.org/get-started/locally/ (plain `pip install torch` there is CPU-only).
+# On Linux, plain `pip install torch` already includes CUDA support.
+torch
+numpy
+pandas
+matplotlib
+ipykernel
